@@ -4604,3 +4604,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 22:30:44.819] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-616, y=22, z=-830}
 [22Feb2025 22:31:29.403] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/28004, l='ServerLevel[world]', x=29.50, y=-53.00, z=-1087.50] as it would cause deadlock
 [22Feb2025 22:38:40.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 22:39:17.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 22:39:36.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 22:41:35.147] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[22Feb2025 22:42:01.269] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[22Feb2025 22:42:20.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 22:42:39.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 22:43:17.010] [IO-Worker-127/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [-1, -47]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 22:48:31.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
