@@ -4839,3 +4839,4 @@ java.util.ConcurrentModificationException: null
 [22Feb2025 23:30:32.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
 [22Feb2025 23:30:32.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
 [22Feb2025 23:33:29.460] [Worker-Main-167/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[22Feb2025 23:41:07.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Not a Fluid!]
