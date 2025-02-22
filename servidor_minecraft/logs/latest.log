@@ -3880,3 +3880,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=-4, z=50}
 [22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1126, y=-3, z=51}
 [22Feb2025 20:56:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Take Aim]
+[22Feb2025 21:02:43.111] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1218, y=-29, z=-14}
+[22Feb2025 21:02:43.112] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1217, y=-28, z=-14}
+[22Feb2025 21:02:43.112] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1218, y=-29, z=-14}
+[22Feb2025 21:02:43.112] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1217, y=-28, z=-14}
+[22Feb2025 21:07:32.671] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14184, l='ServerLevel[world]', x=-1247.50, y=76.00, z=-864.50]

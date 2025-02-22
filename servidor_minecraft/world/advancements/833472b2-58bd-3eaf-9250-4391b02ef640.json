@@ -13988,6 +13988,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-02-22 20:55:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-22 20:57:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-02-22 20:40:41 +0000"
@@ -14030,6 +14042,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-22 20:55:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
@@ -14051,6 +14069,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-02-22 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-22 20:59:12 +0000"
     },
     "done": true
   },
@@ -14132,6 +14156,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-22 20:56:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-02-22 20:18:26 +0000"
@@ -14147,6 +14177,18 @@
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-22 20:55:56 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jam_jar": {
+    "criteria": {
+      "has_sweet_fruit": "2025-02-22 20:57:53 +0000"
     },
     "done": true
   },
@@ -14192,6 +14234,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-02-22 20:57:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_chest": {
     "criteria": {
       "has_item": "2025-02-22 20:25:57 +0000"
@@ -14231,6 +14279,12 @@
   "blue_skies:recipes/blue_skies_tools/maple_axe": {
     "criteria": {
       "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-22 20:59:12 +0000"
     },
     "done": true
   },
