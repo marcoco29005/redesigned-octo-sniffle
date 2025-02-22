@@ -3919,3 +3919,112 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 21:14:25.582] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
 [22Feb2025 21:14:56.372] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14960, l='ServerLevel[world]', x=-1246.50, y=71.00, z=-904.50]
 [22Feb2025 21:17:00.318] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15236, l='ServerLevel[world]', x=-1243.50, y=73.00, z=-897.50]
+[22Feb2025 21:17:45.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15293, l='ServerLevel[world]', x=-1308.50, y=73.00, z=-805.50]
+[22Feb2025 21:17:52.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 21:18:48.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15405, l='ServerLevel[world]', x=-1219.50, y=69.00, z=-906.50]
+[22Feb2025 21:20:43.406] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/15638, l='ServerLevel[world]', x=-1115.50, y=-6.00, z=24.50] as it would cause deadlock
+[22Feb2025 21:21:11.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 21:21:45.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15746, l='ServerLevel[world]', x=-1247.50, y=71.00, z=-904.50]
+[22Feb2025 21:22:54.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11636ms or 232 ticks behind
+[22Feb2025 21:24:10.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15985, l='ServerLevel[world]', x=-1244.50, y=73.00, z=-895.50]
+[22Feb2025 21:24:40.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16036, l='ServerLevel[world]', x=-1309.50, y=73.00, z=-805.50]
+[22Feb2025 21:24:41.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16038, l='ServerLevel[world]', x=-1244.50, y=73.00, z=-897.50]
+[22Feb2025 21:25:23.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16108, l='ServerLevel[world]', x=-1248.50, y=76.00, z=-865.50]
+[22Feb2025 21:30:37.331] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[22Feb2025 21:30:56.120] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16972, l='ServerLevel[world]', x=-1035.50, y=-28.00, z=-1151.50] as it would cause deadlock
+[22Feb2025 21:30:56.120] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/16974, l='ServerLevel[world]', x=-1035.50, y=-28.00, z=-1143.50] as it would cause deadlock
+[22Feb2025 21:31:00.012] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=-29, z=-1160}
+[22Feb2025 21:31:00.012] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=-29, z=-1159}
+[22Feb2025 21:31:00.013] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-995, y=-28, z=-1159}
+[22Feb2025 21:31:00.013] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=-29, z=-1160}
+[22Feb2025 21:31:00.013] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=-29, z=-1159}
+[22Feb2025 21:31:00.013] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-995, y=-28, z=-1159}
+[22Feb2025 21:31:28.626] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.627] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.628] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.628] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[22Feb2025 21:31:28.628] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.630] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.630] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.631] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.631] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.632] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.632] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.633] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.636] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.637] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.638] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.640] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.641] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.642] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.648] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[22Feb2025 21:31:28.648] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[22Feb2025 21:31:28.651] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.652] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.652] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.656] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.657] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.660] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.660] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.664] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.664] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.670] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.673] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.676] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.678] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.679] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.679] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.679] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[22Feb2025 21:31:28.680] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.686] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.694] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.699] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.702] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/vindicator_miner -> hopo:mobs/vindicator_miner
+[22Feb2025 21:31:28.703] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.707] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.707] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.717] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.720] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.735] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.736] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.744] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.752] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.752] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.753] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.754] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.758] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.763] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.768] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.769] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.774] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.783] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.784] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.784] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[22Feb2025 21:31:28.784] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.789] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.800] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.815] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.821] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.828] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.828] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.829] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.829] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.830] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.841] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.853] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.854] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.854] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.855] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/poison_skeleton -> hopo:mobs/poison_skeleton
+[22Feb2025 21:31:28.855] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.855] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.856] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.863] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.863] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.870] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.888] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 21:31:28.888] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.896] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 21:31:28.897] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:28.903] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 21:31:31.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8379ms or 167 ticks behind
+[22Feb2025 21:34:33.370] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18346, l='ServerLevel[world]', x=-1242.50, y=73.00, z=-897.50]

@@ -13982,6 +13982,18 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-02-22 20:52:18 +0000"
@@ -14012,9 +14024,27 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
@@ -14042,6 +14072,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2025-02-22 21:29:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-02-22 20:55:56 +0000"
@@ -14060,6 +14102,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_door": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
@@ -14069,6 +14117,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-02-22 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
@@ -14090,6 +14144,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-02-22 20:16:33 +0000"
@@ -14099,6 +14159,24 @@
   "blue_skies:recipes/building_blocks/maple_ladder": {
     "criteria": {
       "has_item": "2025-02-22 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
+    "criteria": {
+      "has_spruce_log": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
@@ -14117,6 +14195,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
@@ -14144,6 +14228,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-22 20:18:26 +0000"
@@ -14165,6 +14261,12 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
@@ -14210,6 +14312,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-02-22 20:18:26 +0000"
@@ -14222,9 +14336,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_fence": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-02-22 21:29:30 +0000"
     },
     "done": true
   },
@@ -14246,6 +14378,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
     "criteria": {
       "has_resource": "2025-02-22 20:24:35 +0000"
@@ -14258,9 +14396,21 @@
     },
     "done": true
   },
+  "justaraftmod:recipes/transportation/spruce_raft": {
+    "criteria": {
+      "has_log": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-02-22 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
@@ -14276,15 +14426,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_axe": {
     "criteria": {
       "has_resource": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-02-22 20:59:12 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
