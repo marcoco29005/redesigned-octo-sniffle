@@ -13945,21 +13945,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
+  "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
-      "has_raiser_armor_trim_smithing_template": "2025-02-22 04:11:07 +0000"
+      "has_stone_axe": "2025-02-22 03:58:15 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
     "criteria": {
-      "illager_camp": "2025-02-22 04:15:54 +0000"
-    },
-    "done": false
-  },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-02-22 04:14:51 +0000"
+      "has_raiser_armor_trim_smithing_template": "2025-02-22 04:11:07 +0000"
     },
     "done": true
   },
@@ -13969,17 +13963,23 @@
     },
     "done": true
   },
-  "aether:recipes/tools/stone_axe_repairing": {
-    "criteria": {
-      "has_stone_axe": "2025-02-22 03:58:15 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
       "has_silver_nugget": "2025-02-22 04:14:49 +0000"
     },
     "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-02-22 04:14:51 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-02-22 04:15:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
