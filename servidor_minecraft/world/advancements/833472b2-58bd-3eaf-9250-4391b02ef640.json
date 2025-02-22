@@ -14769,6 +14769,12 @@
     },
     "done": true
   },
+  "mca:chores": {
+    "criteria": {
+      "baby": "2025-02-22 22:12:34 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-02-22 22:01:26 +0000"

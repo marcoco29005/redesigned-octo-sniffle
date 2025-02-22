@@ -4351,3 +4351,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 22:00:50.652] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23298, l='ServerLevel[world]', x=-664.50, y=-28.00, z=-909.50] as it would cause deadlock
 [22Feb2025 22:01:37.329] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/23395, l='ServerLevel[world]', x=17.50, y=-53.00, z=-1032.50] as it would cause deadlock
 [22Feb2025 22:03:24.084] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alojzia}[style={}] has been infected
+[22Feb2025 22:11:36.832] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[22Feb2025 22:11:36.843] [Worker-Main-10/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[22Feb2025 22:12:26.238] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/24618, l='ServerLevel[world]', x=-1010.50, y=-28.00, z=-1244.50] as it would cause deadlock
+[22Feb2025 22:12:26.325] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/24620, l='ServerLevel[world]', x=-1002.50, y=-28.00, z=-1244.50] as it would cause deadlock
+[22Feb2025 22:12:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Chores]
+[22Feb2025 22:13:30.220] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1043, y=-53, z=-1243}
+[22Feb2025 22:13:30.221] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1043, y=-53, z=-1243}
+[22Feb2025 22:14:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [They Grow Up So Fast]
