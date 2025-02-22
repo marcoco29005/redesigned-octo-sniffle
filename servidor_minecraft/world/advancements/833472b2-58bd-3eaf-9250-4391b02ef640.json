@@ -13982,6 +13982,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-22 20:40:41 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/maple_stick": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
@@ -14003,6 +14009,12 @@
   "blue_skies:recipes/building_blocks/maple_crafting_table": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-02-22 20:39:50 +0000"
     },
     "done": true
   },
@@ -14035,6 +14047,12 @@
       "has_tomato": "2025-02-22 20:16:33 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-02-22 20:39:50 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/blue_skies_tools/maple_shovel": {
     "criteria": {
