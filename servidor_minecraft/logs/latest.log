@@ -4600,3 +4600,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 22:26:51.634] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-604, y=-50, z=-878}
 [22Feb2025 22:27:45.869] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/27231, l='ServerLevel[world]', x=-999.50, y=-28.00, z=-1270.50] as it would cause deadlock
 [22Feb2025 22:27:45.964] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/27238, l='ServerLevel[world]', x=-1039.50, y=-59.00, z=-1268.50] as it would cause deadlock
+[22Feb2025 22:30:44.819] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-616, y=22, z=-830}
+[22Feb2025 22:30:44.819] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-616, y=22, z=-830}
+[22Feb2025 22:31:29.403] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/28004, l='ServerLevel[world]', x=29.50, y=-53.00, z=-1087.50] as it would cause deadlock
+[22Feb2025 22:38:40.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
