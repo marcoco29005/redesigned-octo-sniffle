@@ -4823,3 +4823,19 @@ java.util.ConcurrentModificationException: null
   "xnp:s6zq8,0+/$(k#'g93=<5/p26.ip.gl."
 ]
 [22Feb2025 23:28:16.575] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46bb521[id=<null>,name=marcouwu2005,properties={},legacy=false] (/127.153.91.240:48503) lost connection: Timed out
+[22Feb2025 23:30:18.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.153.91.240:34445] logged in with entity id 34105 at (-189.97236570186843, 63.0, 661.254590086715)
+[22Feb2025 23:30:19.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[22Feb2025 23:30:19.005] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[22Feb2025 23:30:19.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[22Feb2025 23:30:19.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[22Feb2025 23:30:19.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[22Feb2025 23:30:19.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[22Feb2025 23:30:19.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[22Feb2025 23:30:19.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[22Feb2025 23:30:19.235] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[22Feb2025 23:30:22.183] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[22Feb2025 23:30:22.184] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[22Feb2025 23:30:31.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[22Feb2025 23:30:32.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58a07aa3-0e93-362a-8cc4-6d8a2dfdca58
+[22Feb2025 23:30:32.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58) successfully connected to voice chat
+[22Feb2025 23:33:29.460] [Worker-Main-167/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106

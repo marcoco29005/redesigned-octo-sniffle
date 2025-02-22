@@ -14165,6 +14165,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-22 06:10:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-02-22 06:14:29 +0000",
@@ -14173,15 +14179,9 @@
     },
     "done": false
   },
-  "aether:recipes/tools/iron_hoe_repairing": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_iron_hoe": "2025-02-22 06:10:12 +0000"
-    },
-    "done": true
-  },
-  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/sanding_sail": {
-    "criteria": {
-      "has_sand": "2025-02-22 06:30:16 +0000"
+      "wheat": "2025-02-22 06:12:04 +0000"
     },
     "done": true
   },
@@ -14191,9 +14191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/sanding_sail": {
     "criteria": {
-      "has_sand": "2025-02-22 06:30:17 +0000"
+      "has_sand": "2025-02-22 06:30:16 +0000"
     },
     "done": true
   },
@@ -14209,9 +14209,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "wheat": "2025-02-22 06:12:04 +0000"
+      "has_sand": "2025-02-22 06:30:17 +0000"
     },
     "done": true
   },
