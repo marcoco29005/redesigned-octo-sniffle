@@ -3844,3 +3844,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 20:41:40.082] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1195, y=-54, z=77}
 [22Feb2025 20:43:03.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
 [22Feb2025 20:46:01.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10513, l='ServerLevel[world]', x=-1244.50, y=74.00, z=-871.50]
+[22Feb2025 20:47:21.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Žarko'/9524, l='ServerLevel[world]', x=-1140.39, y=65.50, z=-745.42] died, message: 'Žarko was shot by Pillager'
+[22Feb2025 20:47:21.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Žarko'/9524, l='ServerLevel[world]', x=-1140.39, y=65.50, z=-745.42] died: Žarko was shot by Pillager
+[22Feb2025 20:49:10.974] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[22Feb2025 20:49:10.982] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 20:49:10.985] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.985] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[22Feb2025 20:49:10.985] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 20:49:10.986] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.987] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.988] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.988] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[22Feb2025 20:49:10.989] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.989] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[22Feb2025 20:49:10.989] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[22Feb2025 20:49:10.990] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.990] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/archer -> hopo:mobs/archer
+[22Feb2025 20:49:10.991] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.991] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:room/deepslate_mineshaft -> hopo:room/deepslate_mineshaft
+[22Feb2025 20:49:10.992] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:10.997] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:minecart/deepslate_mineshaft -> hopo:minecart/deepslate_mineshaft
+[22Feb2025 20:49:10.997] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[22Feb2025 20:49:10.997] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/guard -> hopo:mobs/guard
+[22Feb2025 20:49:10.998] [Worker-Main-10/WARN] [lithostitched/]: Template pool fallback chain found: hopo:deepslate_mineshaft -> hopo:deepslate_mineshaft
+[22Feb2025 20:49:15.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved too quickly! 3.385628824485593,-1.1545934958795954,9.53498891561867
+[22Feb2025 20:49:15.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6606ms or 132 ticks behind
+[22Feb2025 20:49:45.317] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11104, l='ServerLevel[world]', x=-1244.50, y=74.00, z=-873.50]
+[22Feb2025 20:50:27.218] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11288, l='ServerLevel[world]', x=-1253.50, y=75.00, z=-841.50]
+[22Feb2025 20:51:04.417] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11355, l='ServerLevel[world]', x=-1247.50, y=76.00, z=-863.50]
+[22Feb2025 20:51:47.618] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11458, l='ServerLevel[world]', x=-1252.50, y=74.00, z=-878.50]
+[22Feb2025 20:55:04.293] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1126, y=-4, z=52}
+[22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=-4, z=50}
+[22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1126, y=-3, z=51}
+[22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1126, y=-4, z=52}
+[22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1125, y=-4, z=50}
+[22Feb2025 20:55:04.294] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1126, y=-3, z=51}
+[22Feb2025 20:56:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Take Aim]
