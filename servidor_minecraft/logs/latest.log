@@ -3794,3 +3794,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-111, -15, 61, -98, 37, 96, 23, -93, 89, -8, -101]"
 ]
+[22Feb2025 20:28:51.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was shot by Skeleton
+[22Feb2025 20:28:52.471] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22Feb2025 20:30:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Vindicator
+[22Feb2025 20:30:34.659] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22Feb2025 20:31:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was shot by Pillager
+[22Feb2025 20:31:12.237] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22Feb2025 20:32:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was shot by Pillager
+[22Feb2025 20:32:30.941] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22Feb2025 20:35:42.454] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6643, l='ServerLevel[world]', x=-1055.50, y=22.00, z=-360.50] as it would cause deadlock
+[22Feb2025 20:35:42.455] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6645, l='ServerLevel[world]', x=-1055.50, y=22.00, z=-352.50] as it would cause deadlock
+[22Feb2025 20:35:46.150] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6679, l='ServerLevel[world]', x=-1060.50, y=-28.00, z=-375.50] as it would cause deadlock
+[22Feb2025 20:35:49.504] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1083, y=-31, z=-334}
+[22Feb2025 20:35:49.504] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1083, y=-31, z=-334}
+[22Feb2025 20:35:49.623] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6714, l='ServerLevel[world]', x=-1073.50, y=22.00, z=-382.50] as it would cause deadlock
+[22Feb2025 20:35:49.814] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6727, l='ServerLevel[world]', x=-1073.50, y=22.00, z=-390.50] as it would cause deadlock
+[22Feb2025 20:36:30.699] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6935, l='ServerLevel[world]', x=-1100.50, y=-53.00, z=-287.50] as it would cause deadlock
+[22Feb2025 20:36:35.982] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/6994, l='ServerLevel[world]', x=-1105.50, y=-28.00, z=-349.50] as it would cause deadlock
+[22Feb2025 20:36:40.247] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1132, y=-46, z=-280}
+[22Feb2025 20:36:40.248] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1132, y=-46, z=-282}
+[22Feb2025 20:36:40.248] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1132, y=-46, z=-280}
+[22Feb2025 20:36:40.248] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1132, y=-46, z=-282}
+[22Feb2025 20:36:40.438] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1130, y=-4, z=-392}
+[22Feb2025 20:36:40.438] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1130, y=-4, z=-392}
+[22Feb2025 20:36:40.771] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/7041, l='ServerLevel[world]', x=-1125.50, y=-53.00, z=-179.50] as it would cause deadlock
+[22Feb2025 20:36:40.772] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/7043, l='ServerLevel[world]', x=-1125.50, y=-53.00, z=-187.50] as it would cause deadlock
+[22Feb2025 20:36:45.576] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/7126, l='ServerLevel[world]', x=-1151.50, y=-3.00, z=-326.50] as it would cause deadlock

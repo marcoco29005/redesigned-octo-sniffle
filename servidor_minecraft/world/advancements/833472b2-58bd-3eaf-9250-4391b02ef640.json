@@ -13982,9 +13982,27 @@
     },
     "done": false
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -13994,15 +14012,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-02-22 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-02-22 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -14021,6 +14075,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -14060,6 +14120,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-02-22 20:18:26 +0000"
@@ -14072,9 +14150,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-02-22 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2025-02-22 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -14093,6 +14201,12 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
