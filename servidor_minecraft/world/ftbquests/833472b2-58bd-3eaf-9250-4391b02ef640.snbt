@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "833472b258bd3eaf92504391b02ef640"
+	name: "ari_fl08#833472b2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
