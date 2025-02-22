@@ -13982,51 +13982,45 @@
     },
     "done": false
   },
-  "mcwroofs:recipes/spruce": {
+  "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
-      "has_planks": "2025-02-22 21:26:39 +0000"
+      "has_tomato": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_cottage": {
+  "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
-      "has_logs": "2025-02-22 21:26:39 +0000"
+      "has_tomato": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
-      "has_item": "2025-02-22 20:52:18 +0000"
+      "has_tomato": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/bow_repairing": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "has_bow": "2025-02-22 20:55:56 +0000"
+      "has_any_ingredient": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "has_apple": "2025-02-22 20:57:53 +0000"
+      "has_any_ingredient": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/iron_chestplate_repairing": {
+  "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
-      "has_iron_chestplate": "2025-02-22 20:40:41 +0000"
+      "has_tomato": "2025-02-22 20:16:33 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/maple_stick": {
+  "lootr:50loot": {
     "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-02-22 21:26:39 +0000"
+      "loot_stat": "2025-02-22 20:18:23 +0000"
     },
     "done": true
   },
@@ -14036,15 +14030,81 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_logs": "2025-02-22 21:26:39 +0000"
+      "has_paper": "2025-02-22 20:18:26 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+  "mca:recipes/misc/books": {
     "criteria": {
-      "has_logs": "2025-02-22 21:26:39 +0000"
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "xercapaint:recipes/item_canvas": {
+    "criteria": {
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-22 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -14060,36 +14120,6 @@
     },
     "done": true
   },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_tower_of_the_undead": "2025-02-22 20:39:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-02-22 20:16:33 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
-    "criteria": {
-      "has_bookshelf": "2025-02-22 21:29:30 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-02-22 20:55:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
@@ -14102,27 +14132,154 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/maple_door": {
     "criteria": {
       "has_item": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
     "criteria": {
-      "has_tomato": "2025-02-22 20:16:33 +0000"
+      "has_resource": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
     "criteria": {
-      "has_logs": "2025-02-22 21:26:39 +0000"
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-02-22 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-02-22 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2025-02-22 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-02-22 20:39:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-02-22 20:39:50 +0000",
+      "entered_hay_storage": "2025-02-22 21:56:54 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-22 20:40:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-22 20:52:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-02-22 20:55:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-22 20:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-22 20:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-22 20:56:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-22 20:57:53 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jam_jar": {
+    "criteria": {
+      "has_sweet_fruit": "2025-02-22 20:57:53 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2025-02-22 20:57:53 +0000"
     },
     "done": true
   },
@@ -14132,33 +14289,63 @@
     },
     "done": true
   },
-  "dungeons_enhanced:ambitious_explorer": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
-      "entered_tower_of_the_undead": "2025-02-22 20:39:50 +0000"
+      "has_eye_armor_trim_smithing_template": "2025-02-22 20:59:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+  "mcwroofs:recipes/spruce": {
     "criteria": {
-      "has_resource": "2025-02-22 20:24:35 +0000"
+      "has_planks": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:26:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:26:39 +0000"
     },
     "done": true
   },
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-02-22 20:16:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_ladder": {
-    "criteria": {
-      "has_item": "2025-02-22 20:25:57 +0000"
     },
     "done": true
   },
@@ -14180,51 +14367,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/redstone/maple_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_fence_gate": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
     },
     "done": true
   },
@@ -14240,75 +14385,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "xercapaint:recipes/item_canvas": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-22 20:56:09 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-02-22 20:18:23 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/maple_button": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-02-22 20:55:56 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/jam_jar": {
-    "criteria": {
-      "has_sweet_fruit": "2025-02-22 20:57:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_trapdoor": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_sign": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-02-22 20:18:26 +0000"
     },
     "done": true
   },
@@ -14324,27 +14403,9 @@
     },
     "done": true
   },
-  "buildinggadgets2:recipes/misc/template_manager": {
-    "criteria": {
-      "has_paper": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_slab": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_fence": {
-    "criteria": {
-      "has_item": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -14354,45 +14415,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-02-22 21:29:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-22 20:16:33 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
-    "criteria": {
-      "has_ginger": "2025-02-22 20:57:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_chest": {
-    "criteria": {
-      "has_item": "2025-02-22 20:25:57 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
-    "criteria": {
-      "has_resource": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
-    "criteria": {
-      "has_resource": "2025-02-22 20:24:35 +0000"
     },
     "done": true
   },
@@ -14402,27 +14427,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-22 20:16:33 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2025-02-22 20:18:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2025-02-22 20:18:26 +0000"
     },
     "done": true
   },
@@ -14450,21 +14457,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/maple_axe": {
-    "criteria": {
-      "has_resource": "2025-02-22 20:24:35 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-22 21:26:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-02-22 20:59:12 +0000"
     },
     "done": true
   },
@@ -14474,9 +14469,555 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/tomato_seeds": {
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
     "criteria": {
-      "has_tomato": "2025-02-22 20:16:33 +0000"
+      "has_bookshelf": "2025-02-22 21:29:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-02-22 21:29:30 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/dark_oak_raft": {
+    "criteria": {
+      "has_log": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-22 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-22 21:58:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-02-22 21:58:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-22 21:58:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-02-22 21:58:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-02-22 21:58:31 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/baklava_no_citrus": {
+    "criteria": {
+      "has_nuts": "2025-02-22 21:58:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:01:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-02-22 22:01:26 +0000"
     },
     "done": true
   },

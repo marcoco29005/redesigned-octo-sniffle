@@ -4320,3 +4320,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 21:58:04.063] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
 [22Feb2025 21:58:07.507] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
 [22Feb2025 21:58:10.865] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[22Feb2025 21:58:21.073] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-673, y=-29, z=-842}
+[22Feb2025 21:58:21.073] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-673, y=-29, z=-844}
+[22Feb2025 21:58:21.073] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-673, y=-29, z=-842}
+[22Feb2025 21:58:21.074] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-673, y=-29, z=-844}
+[22Feb2025 21:59:50.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 833472b2-58bd-3eaf-9250-4391b02ef640 timed out
+[22Feb2025 21:59:50.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ari_fl08
+[22Feb2025 21:59:50.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[22Feb2025 21:59:58.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Disconnected
+[22Feb2025 21:59:58.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[22Feb2025 21:59:58.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ari_fl08
+[22Feb2025 22:00:21.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:39529] logged in with entity id 22976 at (-901.6186288337024, 91.9375, -973.6272439649659)
+[22Feb2025 22:00:21.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[22Feb2025 22:00:21.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[22Feb2025 22:00:21.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[22Feb2025 22:00:21.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[22Feb2025 22:00:21.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[22Feb2025 22:00:21.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[22Feb2025 22:00:21.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[22Feb2025 22:00:21.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[22Feb2025 22:00:21.488] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[22Feb2025 22:00:21.940] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[22Feb2025 22:00:21.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[22Feb2025 22:00:38.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
+[22Feb2025 22:00:39.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
+[22Feb2025 22:00:39.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[22Feb2025 22:00:50.057] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-672, y=-29, z=-843}
+[22Feb2025 22:00:50.057] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-672, y=-29, z=-843}
+[22Feb2025 22:00:50.652] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23296, l='ServerLevel[world]', x=-656.50, y=-28.00, z=-909.50] as it would cause deadlock
+[22Feb2025 22:00:50.652] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/23298, l='ServerLevel[world]', x=-664.50, y=-28.00, z=-909.50] as it would cause deadlock
+[22Feb2025 22:01:37.329] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/23395, l='ServerLevel[world]', x=17.50, y=-53.00, z=-1032.50] as it would cause deadlock
+[22Feb2025 22:03:24.084] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alojzia}[style={}] has been infected
