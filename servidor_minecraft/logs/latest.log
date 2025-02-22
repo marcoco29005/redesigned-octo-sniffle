@@ -4629,3 +4629,8 @@ java.util.ConcurrentModificationException: null
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [22Feb2025 22:48:31.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
 [22Feb2025 22:53:14.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 23:00:42.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 23:00:48.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[22Feb2025 23:01:18.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Disconnected
+[22Feb2025 23:01:18.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[22Feb2025 23:01:18.890] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ari_fl08
