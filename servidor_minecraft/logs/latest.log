@@ -452,3 +452,16 @@ java.util.ConcurrentModificationException: null
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23Feb2025 01:22:57.894] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vojin}[style={}] has been infected
+[23Feb2025 01:24:08.681] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/73283, l='ServerLevel[world]', x=-1387.50, y=82.00, z=-792.50]
+[23Feb2025 01:25:01.665] [Worker-Main-178/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1501, y=21, z=-305}
+[23Feb2025 01:25:01.665] [Worker-Main-178/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1501, y=21, z=-305}
+[23Feb2025 01:25:10.717] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/74060, l='ServerLevel[world]', x=-1495.50, y=-28.00, z=-296.50] as it would cause deadlock
+[23Feb2025 01:25:18.795] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1491, y=-29, z=-262}
+[23Feb2025 01:25:18.796] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1491, y=-28, z=-263}
+[23Feb2025 01:25:18.796] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1491, y=-29, z=-262}
+[23Feb2025 01:25:18.796] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1491, y=-28, z=-263}
+[23Feb2025 01:25:26.750] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/74312, l='ServerLevel[world]', x=-1466.50, y=-28.00, z=-231.50] as it would cause deadlock
+[23Feb2025 01:25:54.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23Feb2025 01:26:23.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Feb2025 01:26:41.579] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/75171, l='ServerLevel[world]', x=-1212.50, y=-53.00, z=-72.50] as it would cause deadlock

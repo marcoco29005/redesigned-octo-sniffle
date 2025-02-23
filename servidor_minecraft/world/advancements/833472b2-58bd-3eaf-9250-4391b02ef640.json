@@ -1643,6 +1643,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-22 00:37:13 +0000",
+      "minecraft:eroded_badlands": "2025-02-23 01:28:59 +0000",
       "minecraft:savanna_plateau": "2025-02-21 20:42:19 +0000",
       "minecraft:beach": "2025-02-22 00:41:58 +0000",
       "minecraft:dark_forest": "2025-02-22 00:02:49 +0000",

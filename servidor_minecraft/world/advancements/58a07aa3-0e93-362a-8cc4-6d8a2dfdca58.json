@@ -27,6 +27,7 @@
       "minecraft:jungle": "2025-02-23 00:21:03 +0000",
       "minecraft:frozen_peaks": "2025-02-22 00:06:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 00:38:01 +0000",
+      "minecraft:deep_dark": "2025-02-23 01:21:30 +0000",
       "minecraft:savanna": "2025-02-21 18:55:45 +0000",
       "minecraft:plains": "2025-02-21 21:25:53 +0000"
     },
@@ -3654,6 +3655,7 @@
       "minecraft:vindicator": "2025-02-22 00:35:10 +0000",
       "minecraft:spider": "2025-02-21 21:25:12 +0000",
       "minecraft:creeper": "2025-02-22 01:35:51 +0000",
+      "minecraft:slime": "2025-02-23 01:22:01 +0000",
       "minecraft:husk": "2025-02-22 00:09:07 +0000",
       "minecraft:zombie": "2025-02-21 20:25:39 +0000"
     },
@@ -14366,6 +14368,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 01:22:06 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-02-22 23:40:16 +0000"
@@ -14375,6 +14383,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 01:22:06 +0000"
     },
     "done": true
   },
@@ -14501,6 +14515,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 01:22:06 +0000"
     },
     "done": true
   },
@@ -14702,6 +14722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-23 01:19:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
       "has_jungle_nightstand": "2025-02-23 00:30:29 +0000"
@@ -14801,6 +14827,12 @@
   "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-23 01:21:30 +0000"
     },
     "done": true
   },
@@ -15278,6 +15310,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-02-23 01:19:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
@@ -15416,6 +15454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-23 01:19:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-02-23 00:15:34 +0000"
@@ -15506,6 +15550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-23 01:19:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -15521,6 +15571,12 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2025-02-23 01:22:06 +0000"
     },
     "done": true
   },
@@ -15623,6 +15679,12 @@
   "mca:recipes/decorations/red_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-02-23 00:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 01:22:06 +0000"
     },
     "done": true
   },
