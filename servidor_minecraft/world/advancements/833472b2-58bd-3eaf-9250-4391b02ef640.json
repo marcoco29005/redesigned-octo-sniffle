@@ -15638,6 +15638,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-23 02:10:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-02-23 01:34:19 +0000"
@@ -15764,9 +15770,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-23 02:10:20 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-02-23 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-23 02:10:20 +0000"
     },
     "done": true
   },
@@ -15785,6 +15803,12 @@
   "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
     "criteria": {
       "has_smooth_basalt": "2025-02-23 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-23 02:10:20 +0000"
     },
     "done": true
   },
