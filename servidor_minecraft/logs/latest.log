@@ -48,3 +48,12 @@
 [23Feb2025 00:09:13.864] [Worker-Main-200/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/50265, l='ServerLevel[world]', x=-83.50, y=-53.00, z=1119.50] as it would cause deadlock
 [23Feb2025 00:09:50.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was shot by Pillager
 [23Feb2025 00:09:51.280] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 00:12:11.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was shot by Pillager
+[23Feb2025 00:12:12.703] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 00:15:07.080] [Worker-Main-178/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[23Feb2025 00:15:46.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was blown up by Creeper Minion
+[23Feb2025 00:15:47.944] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 00:20:26.377] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-54, z=1121}
+[23Feb2025 00:20:26.377] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-53, z=1122}
+[23Feb2025 00:20:26.377] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-54, z=1121}
+[23Feb2025 00:20:26.378] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-53, z=1122}
