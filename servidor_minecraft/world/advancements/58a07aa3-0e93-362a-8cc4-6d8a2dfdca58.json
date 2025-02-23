@@ -10,6 +10,7 @@
       "minecraft:old_growth_pine_taiga": "2025-02-22 00:37:39 +0000",
       "minecraft:eroded_badlands": "2025-02-23 00:06:22 +0000",
       "minecraft:bamboo_jungle": "2025-02-21 23:49:20 +0000",
+      "minecraft:wooded_badlands": "2025-02-23 00:20:44 +0000",
       "minecraft:badlands": "2025-02-23 00:11:26 +0000",
       "minecraft:savanna_plateau": "2025-02-21 20:18:35 +0000",
       "minecraft:beach": "2025-02-22 00:42:30 +0000",
@@ -23,6 +24,7 @@
       "minecraft:lush_caves": "2025-02-22 00:33:54 +0000",
       "minecraft:desert": "2025-02-23 00:06:31 +0000",
       "minecraft:ocean": "2025-02-22 00:02:48 +0000",
+      "minecraft:jungle": "2025-02-23 00:21:03 +0000",
       "minecraft:frozen_peaks": "2025-02-22 00:06:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 00:38:01 +0000",
       "minecraft:savanna": "2025-02-21 18:55:45 +0000",
@@ -14231,6 +14233,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -14255,6 +14263,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-02-23 00:14:47 +0000"
@@ -14276,6 +14290,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "justaraftmod:recipes/transportation/jungle_raft": {
+    "criteria": {
+      "has_log": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -14333,6 +14353,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
@@ -14369,6 +14395,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-02-23 00:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -14378,6 +14410,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/jungle_log_slab": {
+    "criteria": {
+      "has_jungle_log": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -14396,6 +14434,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -14426,6 +14470,12 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -14489,6 +14539,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -14522,6 +14578,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -14597,6 +14659,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-02-23 00:21:41 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
@@ -14645,6 +14713,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -14660,6 +14740,12 @@
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-23 00:24:24 +0000"
     },
     "done": true
   },
@@ -14717,6 +14803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-23 00:09:12 +0000"
@@ -14765,6 +14857,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/jungle_palisade": {
+    "criteria": {
+      "has_log": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
@@ -14780,6 +14878,18 @@
   "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -14843,6 +14953,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
@@ -14879,6 +14995,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_paver_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -14894,6 +15016,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-02-23 00:19:10 +0000"
     },
     "done": true
   },
@@ -14918,6 +15046,12 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },
@@ -15023,6 +15157,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -15071,6 +15211,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_pillar_trim": {
     "criteria": {
       "has_sandstone_pillar_trim": "2025-02-23 00:14:47 +0000"
@@ -15107,6 +15253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
@@ -15119,9 +15271,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 00:14:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-23 00:24:03 +0000"
     },
     "done": true
   },

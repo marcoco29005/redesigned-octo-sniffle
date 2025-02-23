@@ -57,3 +57,40 @@
 [23Feb2025 00:20:26.377] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-53, z=1122}
 [23Feb2025 00:20:26.377] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-54, z=1121}
 [23Feb2025 00:20:26.378] [Worker-Main-166/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-53, z=1122}
+[23Feb2025 00:20:37.839] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/56190, l='ServerLevel[world]', x=33.50, y=22.00, z=1170.50] as it would cause deadlock
+[23Feb2025 00:20:37.936] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=8, y=-41, z=1171}
+[23Feb2025 00:20:37.936] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9, y=-41, z=1170}
+[23Feb2025 00:20:37.936] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=8, y=-41, z=1171}
+[23Feb2025 00:20:37.937] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9, y=-41, z=1170}
+[23Feb2025 00:20:38.230] [Worker-Main-179/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/56204, l='ServerLevel[world]', x=79.50, y=-59.00, z=1179.50] as it would cause deadlock
+[23Feb2025 00:20:40.100] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=107, y=-41, z=1112}
+[23Feb2025 00:20:40.101] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=107, y=-41, z=1112}
+[23Feb2025 00:20:40.364] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/56241, l='ServerLevel[world]', x=106.50, y=-56.00, z=1183.50] as it would cause deadlock
+[23Feb2025 00:20:42.959] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=84, y=-54, z=1199}
+[23Feb2025 00:20:42.960] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=84, y=-54, z=1199}
+[23Feb2025 00:21:01.407] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/56704, l='ServerLevel[world]', x=117.50, y=22.00, z=1193.50] as it would cause deadlock
+[23Feb2025 00:21:02.090] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/56716, l='ServerLevel[world]', x=-22.50, y=-53.00, z=1185.50] as it would cause deadlock
+[23Feb2025 00:21:02.097] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/56718, l='ServerLevel[world]', x=-30.50, y=-53.00, z=1185.50] as it would cause deadlock
+[23Feb2025 00:21:13.218] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=-54, z=1203}
+[23Feb2025 00:21:13.218] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-53, z=1204}
+[23Feb2025 00:21:13.219] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-7, y=-54, z=1203}
+[23Feb2025 00:21:13.219] [Worker-Main-167/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6, y=-53, z=1204}
+[23Feb2025 00:21:13.249] [Worker-Main-167/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/56847, l='ServerLevel[world]', x=117.50, y=22.00, z=1205.50] as it would cause deadlock
+[23Feb2025 00:21:13.288] [Worker-Main-179/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/56849, l='ServerLevel[world]', x=151.50, y=19.00, z=1203.50] as it would cause deadlock
+[23Feb2025 00:21:39.878] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/57049, l='ServerLevel[world]', x=124.50, y=22.00, z=1239.50] as it would cause deadlock
+[23Feb2025 00:21:39.879] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/57051, l='ServerLevel[world]', x=124.50, y=22.00, z=1247.50] as it would cause deadlock
+[23Feb2025 00:21:40.181] [Worker-Main-179/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57054, l='ServerLevel[world]', x=173.50, y=22.00, z=1243.50] as it would cause deadlock
+[23Feb2025 00:21:46.800] [Worker-Main-166/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/57134, l='ServerLevel[world]', x=51.50, y=-3.00, z=1258.50] as it would cause deadlock
+[23Feb2025 00:24:24.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Gone Bananas!]
+[23Feb2025 00:30:40.368] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Feb2025 00:30:40.368] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=992, z=1073200}"
+}
+[23Feb2025 00:30:40.368] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Feb2025 00:30:40.369] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[54, -92, -32, -50, -98, -25, 16, -117, -110, -6, 110]"
+]
