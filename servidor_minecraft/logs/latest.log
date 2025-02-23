@@ -407,3 +407,48 @@ java.lang.IllegalStateException: Nesting problem.
   "$\\Ah!GPgV=nBh=9/g,+fk38$5#'0<@/("
 ]
 [23Feb2025 00:33:17.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Parrots and the Bats]
+[23Feb2025 01:03:25.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:52969] logged in with entity id 65928 at (-1174.2360539669821, 71.0, -795.3900590450977)
+[23Feb2025 01:03:25.841] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[23Feb2025 01:03:25.841] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[23Feb2025 01:03:25.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[23Feb2025 01:03:25.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[23Feb2025 01:03:25.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[23Feb2025 01:03:25.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[23Feb2025 01:03:25.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[23Feb2025 01:03:25.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[23Feb2025 01:03:25.931] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[23Feb2025 01:03:28.869] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[23Feb2025 01:03:28.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[23Feb2025 01:03:38.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 833472b2-58bd-3eaf-9250-4391b02ef640
+[23Feb2025 01:03:39.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 833472b2-58bd-3eaf-9250-4391b02ef640
+[23Feb2025 01:03:39.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640) successfully connected to voice chat
+[23Feb2025 01:03:52.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> ya cree grupo vv
+[23Feb2025 01:04:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> JAJJAJ voi
+[23Feb2025 01:05:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> no tescucho
+[23Feb2025 01:05:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> ahio?
+[23Feb2025 01:05:37.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> tampcooc
+[23Feb2025 01:05:45.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[23Feb2025 01:05:48.879] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 01:05:51.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <marcouwu2005> me sale el micro
+[23Feb2025 01:06:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> a mi no
+[23Feb2025 01:06:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> que jue
+[23Feb2025 01:06:37.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[23Feb2025 01:06:38.696] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 01:07:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ari_fl08> [name:"reparacion", x:-1179, y:71, z:-799, dim:minecraft:overworld]
+[23Feb2025 01:08:27.555] [IO-Worker-237/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [-74, 6]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23777!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
