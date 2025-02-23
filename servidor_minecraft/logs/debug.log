@@ -25029,3 +25029,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Feb2025 03:04:38.365] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$railways$findNearbyConductors$0(Lnet/minecraft/world/phys/Vec3;Lcom/simibubi/create/content/equipment/toolbox/ToolboxBlockEntity;Lcom/simibubi/create/content/equipment/toolbox/ToolboxBlockEntity;)I to mdd96a90$lambda$railways$findNearbyConductors$0$0 in railways-common.mixins.json:MixinToolboxHandler
 [23Feb2025 03:04:40.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [23Feb2025 03:04:46.847] [Worker-Main-2/DEBUG] [ModernFix/]: Saved stronghold cache for dimension minecraft:server_faucet_test_level
+[23Feb2025 03:09:39.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 03:09:39.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 03:14:39.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 03:14:39.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
