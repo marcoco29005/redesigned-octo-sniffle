@@ -1658,6 +1658,7 @@
       "minecraft:ocean": "2025-02-22 00:02:37 +0000",
       "minecraft:frozen_peaks": "2025-02-22 00:22:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 00:37:30 +0000",
+      "minecraft:deep_dark": "2025-02-23 01:59:41 +0000",
       "minecraft:savanna": "2025-02-21 20:22:41 +0000",
       "minecraft:plains": "2025-02-21 21:26:01 +0000"
     },
@@ -15661,9 +15662,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-23 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-23 01:59:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-02-23 02:06:06 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-02-23 01:37:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-23 02:08:01 +0000"
     },
     "done": true
   },
@@ -15679,6 +15704,24 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-23 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-02-23 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-02-23 02:05:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-02-23 01:34:19 +0000"
@@ -15691,15 +15734,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-23 02:02:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-02-23 01:30:54 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-23 02:08:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-02-23 01:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-23 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-02-23 02:03:38 +0000"
     },
     "done": true
   },
@@ -15727,6 +15794,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-02-23 02:05:46 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/magma_block_slab": {
     "criteria": {
       "has_magma_block": "2025-02-23 01:46:29 +0000"
@@ -15736,6 +15809,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-23 01:34:19 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-02-23 02:05:24 +0000"
     },
     "done": true
   },
