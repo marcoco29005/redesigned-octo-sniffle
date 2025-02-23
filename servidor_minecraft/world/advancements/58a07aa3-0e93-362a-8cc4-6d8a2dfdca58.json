@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-22 00:37:39 +0000",
+      "minecraft:eroded_badlands": "2025-02-23 00:06:22 +0000",
       "minecraft:bamboo_jungle": "2025-02-21 23:49:20 +0000",
       "minecraft:savanna_plateau": "2025-02-21 20:18:35 +0000",
       "minecraft:beach": "2025-02-22 00:42:30 +0000",
@@ -19,6 +20,7 @@
       "minecraft:dripstone_caves": "2025-02-21 20:33:58 +0000",
       "minecraft:forest": "2025-02-21 23:13:41 +0000",
       "minecraft:lush_caves": "2025-02-22 00:33:54 +0000",
+      "minecraft:desert": "2025-02-23 00:06:31 +0000",
       "minecraft:ocean": "2025-02-22 00:02:48 +0000",
       "minecraft:frozen_peaks": "2025-02-22 00:06:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 00:38:01 +0000",
@@ -3644,6 +3646,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-23 00:08:52 +0000",
       "minecraft:skeleton": "2025-02-21 21:34:53 +0000",
       "minecraft:vindicator": "2025-02-22 00:35:10 +0000",
       "minecraft:spider": "2025-02-21 21:25:12 +0000",
@@ -14311,6 +14314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-23 00:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
@@ -14332,6 +14341,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 23:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 00:06:35 +0000"
     },
     "done": true
   },
